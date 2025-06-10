@@ -1,0 +1,9 @@
+tensorflow==2.14.0
+streamlit==1.32.0
+pandas
+numpy
+scikit-learn
+shap
+matplotlib
+flake8
+pytest
